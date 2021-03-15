@@ -1,0 +1,13 @@
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\bin\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.exe
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\bin\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.deps.json
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\bin\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.runtimeconfig.json
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\bin\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.runtimeconfig.dev.json
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\bin\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.dll
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\bin\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.pdb
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\obj\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.csprojAssemblyReference.cache
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\obj\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.AssemblyInfoInputs.cache
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\obj\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.AssemblyInfo.cs
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\obj\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.csproj.CoreCompileInputs.cache
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\obj\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.dll
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\obj\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.pdb
+D:\Code\C#\DFA\DFA_Sensitive_Word_Filtration\obj\Debug\netcoreapp3.1\DFA_Sensitive_Word_Filtration.genruntimeconfig.cache
